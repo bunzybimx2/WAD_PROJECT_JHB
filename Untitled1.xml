@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    
+	<gallery>
+		<artist>
+			<painter>
+				<name> </name>
+				<title> </title>
+				<country> </country>
+				<date> </date>
+				<style> </style>
+				<size> </size>
+			</painter>
+			
+			<sculptor>
+				<name> </name>
+				<title> </title>
+				<country> </country>
+				<date> </date>
+				<style> </style>
+				<material> </material>
+			</sculptor>
+			
+			<photographer>
+				<name> </name>
+				<title> </title>
+				<country> </country>
+				<date> </date>
+				<style> </style>
+				<size> </size>
+			</photographer>
+			
+		</artist>
+		
+		<events>
+			<exhibition> 
+				<title> </title>
+				<time> </time>
+				<date> </date>
+				<artist_exh> </artist_exh>
+			</exhibition>
+		</events>
+		
+	</gallery>
+
+
+<root />
